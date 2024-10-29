@@ -1,4 +1,4 @@
-🌟I'm excited to share my new project—HR Attrition Dashboard. 🌟
+🌟I'm excited to share my new project—Blinkit Analysis Dashboard. 🌟
 
 
 
